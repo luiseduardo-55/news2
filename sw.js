@@ -7,7 +7,7 @@
    versión para que los teléfonos descarguen la versión nueva.
    ===================================================================== */
 
-const VERSION = 'news2-v1';
+const VERSION = 'news2-v2';
 
 const ARCHIVOS = [
   './',
